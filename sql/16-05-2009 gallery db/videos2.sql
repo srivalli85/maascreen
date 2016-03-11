@@ -1,0 +1,1 @@
+ALTER TABLE `videos` CHANGE `last_viewed` `last_viewed` INT( 10 ) NOT NULL DEFAULT '0'; 
